@@ -40,9 +40,7 @@
 
 | Página Principal | Panel Admin |
 |------------------|-------------|
-| ![Home](<img width="1856" height="791" alt="image" src="https://github.com/user-attachments/assets/e0c42fb1-d8a0-4f33-9d30-463484af0f54" />
-) | ![Admin](<img width="1867" height="899" alt="dashboard_admins" src="https://github.com/user-attachments/assets/19e6e085-3507-4cad-8568-ca9d4be28663" />
-) |
+| <img src="https://github.com/user-attachments/assets/e0c42fb1-d8a0-4f33-9d30-463484af0f54" width="400" alt="Home Page"> | <img src="https://github.com/user-attachments/assets/19e6e085-3507-4cad-8568-ca9d4be28663" width="400" alt="Admin Dashboard"> |
 
 ---
 
@@ -290,7 +288,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Navarro**
-- GitHub: [@TuUsuario](https://github.com/JDNG11)
+- GitHub: [JDNG111](https://github.com/JDNG11)
 - Email: NAVARROESTUDIANTE1010@gmail.com.com
 
 ---
