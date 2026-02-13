@@ -22,7 +22,7 @@
 - **Autenticación** - Registro e inicio de sesión
 - **Menú interactivo** - Visualización de platos por categorías (Desayuno, Almuerzo, Cena)
 - **Carrito de compras** - Agregar y eliminar platos
-- **Checkout** - Proceso de pago simulado
+- **Checkout** - Proceso de pago con Paypal
 - **Reservas** - Reserva de mesas en línea
 - **Reseñas** - Opiniones de clientes
 - **Historial** - Ver reservas y pedidos realizados
